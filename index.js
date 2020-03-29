@@ -1,5 +1,10 @@
 function scuberGreetingForFeet(feet){
-  let value
+  if (feet > 2000) return 'I will gladly take your thirty bucks.';
+  else if (feet <= 400) return "This one is on me!";
+  else (feet > 2500) return 'No can do.';
+}
+
+let value
   if (feet >= 2000) {
     value = 'I will gladly take your thirty bucks.';
     return value
@@ -10,12 +15,6 @@ function scuberGreetingForFeet(feet){
     value = 'No can do.';
     return value
   }
-}
-
-if feet > 2000 return something
-else feet <= 400 return 
-
-
 function scuberGreetingForFeet(feet){
   switch (feet) {
     case feet > 2500
