@@ -12,7 +12,9 @@ function scuberGreetingForFeet(feet){
   }
 }
 function scuberGreetingForFeet(feet){
-  switch (feet)
+  switch (feet) {
+    
+  }
 }
 
 function ternaryCheckCity(){
