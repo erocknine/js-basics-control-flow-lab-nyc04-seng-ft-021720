@@ -13,7 +13,7 @@ function scuberGreetingForFeet(feet){
 }
 function scuberGreetingForFeet(feet){
   switch (feet) {
-    
+    case 
   }
 }
 
