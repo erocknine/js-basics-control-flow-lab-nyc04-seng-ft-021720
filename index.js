@@ -6,7 +6,13 @@ function scuberGreetingForFeet(feet){
   else if (feet <= 400)
     value = "This one is on me!";
     return value
-  else if ()
+  else if (feet > 2500)
+    value = 'No can do.';
+    return value
+  end
+}
+function scuberGreetingForFeet(feet){
+  switch (feet)
 }
 
 function ternaryCheckCity(){
