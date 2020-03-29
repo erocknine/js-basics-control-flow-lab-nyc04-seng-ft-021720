@@ -13,7 +13,8 @@ function scuberGreetingForFeet(feet){
 }
 function scuberGreetingForFeet(feet){
   switch (feet) {
-    case feet 
+    case feet > 2500
+      
   }
 }
 
