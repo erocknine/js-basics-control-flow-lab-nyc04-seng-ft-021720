@@ -1,9 +1,10 @@
 function scuberGreetingForFeet(feet){
   let value
   if (feet >= 2000)
-    value = "This one is on me!";
+    
     return value
-    else if (feet >)
+  else if (feet <= 400)
+    value = "This one is on me!";
 }
 
 function ternaryCheckCity(){
