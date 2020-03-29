@@ -9,7 +9,6 @@ function scuberGreetingForFeet(feet){
   } else if (feet > 2500) {
     value = 'No can do.';
     return value
-  end
   }
 }
 function scuberGreetingForFeet(feet){
