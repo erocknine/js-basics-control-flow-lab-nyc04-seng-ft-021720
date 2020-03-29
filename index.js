@@ -11,6 +11,11 @@ function scuberGreetingForFeet(feet){
     return value
   }
 }
+
+if feet > 2000 return something
+else feet <= 400 return 
+
+
 function scuberGreetingForFeet(feet){
   switch (feet) {
     case feet > 2500
