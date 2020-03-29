@@ -14,6 +14,8 @@ function scuberGreetingForFeet(feet){
 function scuberGreetingForFeet(feet){
   switch (feet) {
     case feet > 2500
+      return 'No can do.'
+      break;
       
   }
 }
